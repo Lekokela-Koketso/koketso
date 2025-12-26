@@ -1,8 +1,8 @@
-# I'm Koketso 👋
+# I'm Koketso
 
 BSc IT Student
 Software Engineering & Cybersecurity Focus  
-AWS Cloud Foundations | 🤖 IBM AI Fundamentals  
+AWS Cloud Foundations | IBM AI Fundamentals  
 
 ##  Technical Skills
 Programming:Python,Java,C#,JavaScript
